@@ -103,6 +103,9 @@ header {
   font-size: 15px;
   color: #000; }
 
+a[class="header-top__link ru"] {
+  font-size: 12px; }
+
 .header-bottom {
   margin-top: -20px;
   display: -webkit-box;
