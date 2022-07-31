@@ -103,7 +103,7 @@ header {
   font-size: 15px;
   color: #000; }
 
-a[class="header-top__link ru"] {
+a[class="header-top__link uk"] {
   font-size: 12px; }
 
 .header-bottom {
@@ -648,7 +648,7 @@ textarea.input {
 .delete {
   display: none; }
 
-.ru {
+.uk {
   font-weight: bold;
   letter-spacing: 0.1px;
   word-spacing: 0.05em;
