@@ -1,2 +1,4 @@
 # SushiOne
-Пример адаптивной вёрстки странички с применением flexbox и создание переключателя языков без плагина на чистом JavaScript (всего несколько строчек).
+An example of an adapted page layout, where the possibility of adding a product to the cart is implemented using JavaScript.
+Приклад адаптованої верстки сторінки, де за допомогою JavaScript реалізована можливість додавання товару до кошику.
+https://denis-afimin.github.io/autoshop/
